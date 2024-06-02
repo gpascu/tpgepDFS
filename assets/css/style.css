@@ -17,7 +17,7 @@
 }
 
 img {
-  max-width: 100%;
+  width: 100%;
 }
 
 a {
@@ -645,6 +645,7 @@ footer .inner .foot-post .post-row {
 }
 footer .inner .foot-post .post-row .image img {
   width: 120px;
+  height: 6vh;
 }
 footer .inner .foot-post .post-row .detail {
   flex-grow: 1;
